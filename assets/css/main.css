@@ -12232,7 +12232,7 @@ Location:
 .attent1-section-area .tab-container .nav-link.link1::before {
   position: absolute;
   content: "";
-  height: 500px;
+  height: 700px;
   width: 10px;
   border-radius: 2px;
   background: rgba(255, 255, 255, 0.2);
