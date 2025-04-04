@@ -4610,6 +4610,11 @@ Location:
   color: var(--ztc-bg-bg-1);
 }
 
+.mobile-sidebar.mobile-sidebar5 .logosicon-area .logos img{
+  width: 50%;
+  height: 50%;
+}
+
 .mobile-sidebar.mobile-sidebar5 {
   background: #f2f2f2;
 }
